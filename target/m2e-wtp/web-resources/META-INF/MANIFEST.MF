@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Prakhar
+Build-Jdk: 11.0.8
+Implementation-Title: survey-manager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.practice.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/survey-manager
+Created-By: Maven Integration for Eclipse
+
